@@ -5,7 +5,7 @@
 I am a Mechatronics Engineering graduate from Ho Chi Minh City University of Technology and Education. My work focuses on researching and developing automation systems powered by Computer Vision and Artificial Intelligence. I am passionate about building intelligent systems that integrate AI into real-world applications, combining both software and hardware to create practical and innovative solutions.
 
 - 🌍  I'm based in Vietnam  
-- 📧  You can contact me at [minhkhoanguyen656@gmail.com](mailto:minhkhoanguyen656@gmail.com)  
+- 📧  You can contact with me at [minhkhoanguyen656@gmail.com](mailto:minhkhoanguyen656@gmail.com)  
 - 🧠  I'm learning **Computer Vision**, **Embedded System**, **Industrial Automation**
 - 🤝  I'm open to collaborating on interesting projects
 
