@@ -1,4 +1,4 @@
-# Hi 👋  My name is Thuận
+# Hi 👋  My name is Khoa
 
 ## Mechatronics Engineering – AI Engineer
 
