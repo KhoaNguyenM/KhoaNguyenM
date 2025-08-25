@@ -1,5 +1,13 @@
-# 💫About Me :
+# Hi 👋  My name is Thuận
+
+## Mechatronics Engineering – AI Engineer
+
 I am a Mechatronics Engineering graduate from Ho Chi Minh City University of Technology and Education. My work focuses on researching and developing automation systems powered by Computer Vision and Artificial Intelligence. I am passionate about building intelligent systems that integrate AI into real-world applications, combining both software and hardware to create practical and innovative solutions.
+
+- 🌍  I'm based in Vietnam  
+- 📧  You can contact me at [minhkhoanguyen656@gmail.com](mailto:minhkhoanguyen656@gmail.com)  
+- 🧠  I'm learning **Computer Vision**, **Embedded System**, **Industrial Automation**
+- 🤝  I'm open to collaborating on interesting projects
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.minh.khoa.754232) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/minh-khoa-nguyen-3055762a9) 
