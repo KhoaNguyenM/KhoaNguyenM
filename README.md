@@ -6,7 +6,7 @@ I am a Mechatronics Engineering graduate from Ho Chi Minh City University of Tec
 
 - 🌍  I'm based in Vietnam  
 - 📧  You can contact with me at [minhkhoanguyen656@gmail.com](mailto:minhkhoanguyen656@gmail.com)  
-- 🧠  I'm learning **Computer Vision**, **Embedded System**, **Industrial Automation**
+- 🧠  I'm learning **Computer Vision**, **Embedded System**, **Industrial Automation**,  **Sensor and Actuator**
 - 🤝  I'm open to collaborating on interesting projects
 
 ## 🌐Socials
