@@ -2,11 +2,11 @@
 
 ## Embodied AI Engineer – AI Engineer
 
-I am a Embodied AI Engineer graduate from Ho Chi Minh City University of Technology and Education. My work focuses on researching and developing automation systems powered by Computer Vision and Artificial Intelligence. I am passionate about building intelligent systems that integrate Physics AI into real-world applications, combining both software and hardware to create practical and innovative solutions.
+I am a Embodied - Computer Vision AI Engineer graduate from Ho Chi Minh City University of Technology and Education. My work focuses on researching and developing automation systems powered by Computer Vision, Robotics and Artificial Intelligence. I am passionate about building intelligent systems that integrate Physics AI into real-world applications, combining both software and hardware to create practical and innovative solutions.
 
 - 🌍  I'm based in Vietnam  
 - 📧  You can contact with me at [khoanguyen.aidev@gmail.com](mailto:khoanguyen.aidev@gmail.com)  
-- 🧠  I'm learning **Computer Vision**, **Physics AI**, **Embedded System**, **Robotíc & Automation**,  **Sensor and Actuator**
+- 🧠  I'm learning **Computer Vision**, **Physics AI**, **Embedded System**, **Robotics & Automation**,  **Sensor and Actuator**
 - 🤝  I'm open to collaborating on interesting projects
 
 ## 🌐Socials
